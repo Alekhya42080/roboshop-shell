@@ -1,0 +1,2 @@
+# roboshop-shell
+About automation
