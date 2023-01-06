@@ -1,5 +1,4 @@
-
-
+script_location=$(pwd)
 
 
 yum install nginx -y 
